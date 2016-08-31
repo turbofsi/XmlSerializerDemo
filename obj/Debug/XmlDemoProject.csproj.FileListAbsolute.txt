@@ -1,0 +1,6 @@
+c:\users\yang\documents\visual studio 2015\Projects\XmlDemoProject\XmlDemoProject\bin\Debug\XmlDemoProject.exe.config
+c:\users\yang\documents\visual studio 2015\Projects\XmlDemoProject\XmlDemoProject\bin\Debug\XmlDemoProject.exe
+c:\users\yang\documents\visual studio 2015\Projects\XmlDemoProject\XmlDemoProject\bin\Debug\XmlDemoProject.pdb
+c:\users\yang\documents\visual studio 2015\Projects\XmlDemoProject\XmlDemoProject\obj\Debug\XmlDemoProject.csprojResolveAssemblyReference.cache
+c:\users\yang\documents\visual studio 2015\Projects\XmlDemoProject\XmlDemoProject\obj\Debug\XmlDemoProject.exe
+c:\users\yang\documents\visual studio 2015\Projects\XmlDemoProject\XmlDemoProject\obj\Debug\XmlDemoProject.pdb
